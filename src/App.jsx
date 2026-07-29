@@ -1,7 +1,6 @@
 import React from 'react'
 import './index.css'
 import Sidebar from './components/Sidebar'
-import Sidebartest from './components/Sidebartest'
 import { Routes } from 'react-router-dom'
 import { Route } from 'react-router-dom'
 import Home from './Pages/Home'
